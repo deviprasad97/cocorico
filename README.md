@@ -1,7 +1,6 @@
 # Cocorico
 
-Cocorico is an open source platform to create collaborative consumption marketplaces.
-You can find more information about this project on [http://www.cocolabs.io](http://www.cocolabs.io).
+
 
 This document contains information on how to download, install, and start using Cocorico:
 
