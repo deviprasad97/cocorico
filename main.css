@@ -1,0 +1,51 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,500);
+
+*{
+	padding:0;
+	margin:0;
+}
+
+body{
+	font-family: cinzel, serif;
+	font-size: 100%;
+background-color:rgba(255, 255, 255, 0.0);	
+font-size:30pt;	
+	color:#666666;
+	text-align:center;
+}
+
+a{
+	text-decoration: none;
+	color:#666;
+}
+	a:hover{
+		color:#999;
+	}
+p{
+	line-height: 1em;
+	margin:0 0 20px;
+	text-align: center;
+}
+
+.wrap{
+	
+	
+	margin:15px auto;
+}
+
+.type-wrap{
+	width:568px;
+	height:150px;
+	font-size:30pt;	
+	color:#fff;
+	
+	margin:10px auto;
+	padding:40px 20px 30px 20px;
+	
+}
+
+.links{
+	margin:20px 0;
+	font-size: 0.75em;
+	text-align: center;
+}
